@@ -1,0 +1,9 @@
+MONTHLY UTILITY BILL
+================================
+Customer ID: C1001
+Customer Name: Maya Johnson
+Electricity Usage: 400.0 kWh
+Electricity Charge: $60.00
+Late-Payment Fee: $15.00
+TOTAL AMOUNT DUE: $75.00
+Payment Status: Previous bill overdue
